@@ -1,0 +1,69 @@
+
+header{
+    background-color: #00cc99;
+}
+.bg-body-tertiary {
+    background: linear-gradient(to top, #33ccff 0%, #3366ff 100%)!important;
+}
+.logo{
+    height: 50px;
+    width: 190px;
+    padding-left: 50px;
+    
+}
+.nav-link{
+    font-size: larger;
+    font-weight: bolder;
+}
+#slider-text{
+    font-size: 3.5rem;
+    text-shadow: 2px 2px 8px #1ea6cf;
+}
+ .welcomeNoteContainer{
+    background: linear-gradient(to bottom, #33ccff 0%, #3366ff 100%);
+}
+.welcome{
+    font-size: 2rem;
+    
+}
+.aboutUsBtn{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section3header{
+    text-shadow: 2px 2px 8px gray;
+}
+
+.section3Text{
+    text-align: justify;
+}
+#boatModelName{
+    text-align: center;
+    font-weight: bold;
+}
+#section5Background{
+    background-image: url('/assets/images/wall4.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.sectionFiveImage{
+    height: 150px;
+}
+.sectionFiveText{
+    font-size: 25px;
+    font-weight: bold;
+}
+.footer{
+    background: linear-gradient(to bottom, #33ccff 0%, #3366ff 100%);
+}
+.footerLeft{
+    text-align: left;
+    margin-left: 68px;
+}
+.footerRight, .footerMiddle{
+    text-align: left;
+}
+.aboutPage{
+    background-image: url('/assets/images/wall3.jpg');
+}
